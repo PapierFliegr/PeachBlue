@@ -1,0 +1,19 @@
+{
+  "KPlugin": {
+    "Name": "PeachBlue",
+    "Description": "A PeachBlue Theme",
+    "Authors": [
+      {
+        "Email": "",
+        "Name": "PapierFliegr"
+      }
+    ],
+    "Category": "",
+    "EnabledByDefault": true,
+    "Id": "default",
+    "License": "LGPL",
+    "Version": "0.1",
+    "Website": ""
+  },
+  "X-Plasma-API": "5.0"
+}
